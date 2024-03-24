@@ -1,4 +1,4 @@
-# Fast Food Delivery Web Application 🍔 🛵
+# Fast Food Delivery MERN stack Application
 
 # Tech Stack
 
@@ -20,7 +20,7 @@
 
 ## Installation Process
 ```
-git clone https://github.com/boybenson/fast_food.git
+git clone https://github.com/dmts90/MERN-Fast-Food-Delivery.git
 cd fast_food
 ```
 install backend server dependencies
@@ -50,5 +50,3 @@ start the frontend
 ```
 yarn start
 ```
-
-Happy Coding!!!!
